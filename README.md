@@ -1,0 +1,2 @@
+# StoreX
+aplikasi inventaris
